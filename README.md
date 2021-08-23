@@ -1,5 +1,5 @@
 # iOS-Github-Search-Client
-iOS  - Github Repository Search Client Using Swift Programming language.
+iOS application  - Github Search Repository Client - Using Swift Programming language.
 
 # Instructions
 # Dependencies
