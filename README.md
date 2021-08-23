@@ -10,18 +10,18 @@ To add a package dependency to your Xcode project, select File > Swift Packages 
 The Project uses two dependencies:-
 
 
-1. Kingfisher:  A lightweight and pure Swift implemented library for downloading and caching image from the web.
+1. **Kingfisher**:  A lightweight and pure Swift implemented library for downloading and caching image from the web.
 
-2. Loaf:  A simple framework for easy iOS Toasts (to show Error messages)
+2. **Loaf**:  A simple framework for easy iOS Toasts (to show Error messages)
 
-3. SwiftyJSON: SwiftyJSON makes it easy to deal with JSON data in Swift
+3. **SwiftyJSON**: SwiftyJSON makes it easy to deal with JSON data in Swift
 
 # Pages
 
 The app has two pages:-
 
-1. Search: It searches using the keyowrd entered by user, Once a keyword is entered, it searches the reposirtoy on Github using the API (api.github.com)
-2. Repo details: It shows meta data about the selected repo, such as, Repo name, owner, creation date, description etc.,
+1. **Repo Search**: It searches using the keyowrd entered by user, Once a keyword is entered, it searches the reposirtoy on Github using the API (api.github.com)
+2. **Repo details**: It shows meta data about the selected repo, such as, Repo name, owner, creation date, description etc.,
 
 # Pagination
 
