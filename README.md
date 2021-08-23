@@ -5,9 +5,9 @@ iOS  - Github Repository Search Client Using Swift Programming language.
 # Dependencies
 This Project uses the Swift Package Manager for its dependencies.
 
-(What is Swift Package Manager? The Swift Package Manager is a tool for managing the distribution of Swift code. It’s integrated with the Swift build system to automate the process of downloading, compiling, and linking dependencies.)
+<i>(What is Swift Package Manager? The Swift Package Manager is a tool for managing the distribution of Swift code. It’s integrated with the Swift build system to automate the process of downloading, compiling, and linking dependencies.)
 Add a Swift Package Dependency<br>
-To add a package dependency to your Xcode project, select File > Swift Packages > Add Package Dependency and enter its repository URL. You can also navigate to your target’s General pane, and in the “Frameworks, Libraries, and Embedded Content” section, click the + button, select Add Other, and choose Add Package Dependency.
+To add a package dependency to your Xcode project, select File > Swift Packages > Add Package Dependency and enter its repository URL. You can also navigate to your target’s General pane, and in the “Frameworks, Libraries, and Embedded Content” section, click the + button, select Add Other, and choose Add Package Dependency.</i><br>
 The Project uses two dependencies:-
 
 
