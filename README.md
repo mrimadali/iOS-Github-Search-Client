@@ -33,4 +33,5 @@ It uses UITableView - UITableViewDataSourcePrefetching protocol, You use a prefe
 
 # Software Requirements:-
 1. Xcode 12 or later &<br>
-2. iOS 13 or later
+2. iOS 13 or later<br>
+3. Swift 5 and above
