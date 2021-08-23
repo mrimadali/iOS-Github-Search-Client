@@ -21,7 +21,7 @@ The app uses three dependencies:-
 
 The app has two pages:-
 
-1. **Repo Search**: It searches using the keyowrd entered by user, Once a keyword is entered, it searches the reposirtoy on Github using the API (api.github.com)
+1. **Repo Search**: It searches using the keyowrd entered by user, Once a keyword is entered, it searches the repository on Github using the API (api.github.com)
 2. **Repo details**: It shows meta data about the selected repo, such as, Repo name, owner, creation date, description etc.,
 
 # Pagination
