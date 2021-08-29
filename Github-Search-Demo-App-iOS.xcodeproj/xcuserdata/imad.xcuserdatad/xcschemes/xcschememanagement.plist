@@ -7,7 +7,7 @@
 		<key>Github-Search-Demo-App-iOS.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<key>Playground (Playground) 1.xcscheme</key>
 		<dict>
@@ -29,6 +29,24 @@
 			<false/>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>086857F626D14B4500015024</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0868580C26D14B4700015024</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0868581726D14B4700015024</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

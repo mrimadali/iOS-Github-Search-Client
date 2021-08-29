@@ -1,0 +1,6 @@
+osx_image: xcode12.5.1
+language: swift
+os: osx
+xcode_project: Github-Search-Demo-App-iOS.xcodeproj
+xcode_scheme: Github-Search-Demo-App-iOS
+xcode_destination: platform=iOS Simulator,OS=14.5,name=iPhone 12
