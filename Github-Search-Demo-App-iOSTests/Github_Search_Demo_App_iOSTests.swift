@@ -20,6 +20,7 @@ class Github_Search_Demo_App_iOSTests: XCTestCase {
 
     func testExample() throws {
         XCTFail()
+        
     }
 
     func testPerformanceExample() throws {
